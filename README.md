@@ -26,3 +26,7 @@ For this research question, i conducted the following:
 * Examed the popularity column.
 * Extracted the high popularity values.
 * Looked for possible relationships between high popularity and other columns.
+
+
+### Limitation
+It is important to note that the conclusions drawn from this analysis are limited. This is because a significant portion of the original data had been removed during the cleaning process. Therefore, I worked with a much smaller sample size and as such does not necessarily represent the population.
